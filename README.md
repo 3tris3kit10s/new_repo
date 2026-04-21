@@ -1,2 +1,2 @@
-primer documento prueba en GitHub
+primer documento prueba en GitHub<br>
 local name: git_test
